@@ -7,6 +7,7 @@ Run `pokemon_filtering_sorting.ipynb` to se my work.
 ---
 
 Key Skills Demonstrated 🔍:
+
 Data wrangling: load CSV, inspect dtypes, tidy columns
 Filtering & Boolean logic: build masks with &, |, isin
 Sorting & ranking: sort_values, nlargest, percentile cuts

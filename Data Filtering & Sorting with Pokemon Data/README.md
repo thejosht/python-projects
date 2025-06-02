@@ -8,23 +8,6 @@ Run `pokemon_filtering_sorting.ipynb` to se my work.
 
 Key Skills Demonstrated 🔍:
 
-<<<<<<< HEAD
-  1. Data wrangling: load CSV, inspect dtypes, tidy columns
-
-  2. Filtering & Boolean logic: build masks with &, |, isin
-
-  3. Sorting & ranking: sort_values, nlargest, percentile cuts
-
-  4. Aggregation: quick counts with groupby, value_counts
-
-  5. Reusable subsets: save filtered frames (slow_pokemons_df, legendary_df, …)
-
-  6. EDA & outlier spotting: basic stats to flag extremes
-
-  7. Jupyter Notebook craftsmanship: clear cell titles, Markdown narration
-
-  8. Git + GitHub: commit data, code, README, Issue form
-=======
 1. Data wrangling: load CSV, inspect dtypes, tidy columns
 
 2. Filtering & Boolean logic: build masks with &, |, isin
@@ -38,7 +21,6 @@ Key Skills Demonstrated 🔍:
 6. Jupyter Notebook craftsmanship: clear cells and efficient use of the Jupyter note books environment
 
 7. Git + GitHub: commit data, code, README, Issue form
->>>>>>> 1ccc32c (Update README and notebook with Final answers)
 
 ---
 
